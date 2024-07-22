@@ -4,7 +4,7 @@ Welcome! This is a repository with the example of building a microscope, followi
 This was developed during 2024 EMBL Lautenschläger Summer School by an interdisciplinary group:
 * Amanda Araujo
 * Guchan Li
-* Mahiro
+* Mahiro Suematsu
 * Yujia
 
 ## Project structure
